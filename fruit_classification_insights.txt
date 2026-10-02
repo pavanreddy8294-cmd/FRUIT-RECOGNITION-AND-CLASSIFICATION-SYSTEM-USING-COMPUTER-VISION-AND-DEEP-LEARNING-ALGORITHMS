@@ -1,0 +1,78 @@
+FRUIT RECOGNITION AND CLASSIFICATION SYSTEM - DATASET INSIGHTS
+======================================================================
+
+Total Images: 500
+
+Fruit Type Distribution:
+  Apple: 100 images (20.0%)
+  Banana: 100 images (20.0%)
+  Orange: 100 images (20.0%)
+  Mango: 100 images (20.0%)
+  Strawberry: 100 images (20.0%)
+
+
+Color Feature Analysis:
+----------------------------------------------------------------------
+
+Apple:
+  Average R Channel: 231.9
+  Average G Channel: 99.3
+  Average B Channel: 106.4
+  Color Saturation: 0.572
+
+Banana:
+  Average R Channel: 228.4
+  Average G Channel: 226.1
+  Average B Channel: 45.8
+  Color Saturation: 0.746
+
+Orange:
+  Average R Channel: 226.8
+  Average G Channel: 148.3
+  Average B Channel: 51.4
+  Color Saturation: 0.688
+
+Mango:
+  Average R Channel: 214.8
+  Average G Channel: 151.3
+  Average B Channel: 50.1
+  Color Saturation: 0.647
+
+Strawberry:
+  Average R Channel: 228.9
+  Average G Channel: 99.4
+  Average B Channel: 96.5
+  Color Saturation: 0.584
+
+
+Morphological Feature Analysis:
+----------------------------------------------------------------------
+
+Apple:
+  Average Size: 55.1 pixels
+  Average Roundness: 0.759
+  Average Texture Score: 0.507
+
+Banana:
+  Average Size: 55.1 pixels
+  Average Roundness: 0.756
+  Average Texture Score: 0.542
+
+Orange:
+  Average Size: 50.8 pixels
+  Average Roundness: 0.702
+  Average Texture Score: 0.510
+
+Mango:
+  Average Size: 56.3 pixels
+  Average Roundness: 0.751
+  Average Texture Score: 0.425
+
+Strawberry:
+  Average Size: 51.8 pixels
+  Average Roundness: 0.752
+  Average Texture Score: 0.483
+
+
+Key Observations:
+----------------------------------------------------------------------
